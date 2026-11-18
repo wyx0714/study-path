@@ -1,0 +1,20 @@
+server:
+  address: ${STUDY_BIND:127.0.0.1}
+  port: ${STUDY_PORT:8092}
+spring:
+  datasource:
+    url: ${STUDY_DB_URL:jdbc:h2:file:./data/study-path;MODE=MySQL;DATABASE_TO_LOWER=TRUE}
+    username: ${STUDY_DB_USER:sa}
+    password: ${STUDY_DB_PASSWORD:}
+  sql:
+    init:
+      mode: always
+study:
+  model:
+    key: ${STUDY_MODEL_KEY:}
+    base-url: ${STUDY_MODEL_BASE_URL:https://api.openai.com/v1}
+    name: ${STUDY_MODEL_NAME:gpt-4o-mini}
+    deepseek-key: ${DEEPSEEK_API_KEY:}
+    deepseek-base-url: ${STUDY_DEEPSEEK_BASE_URL:https://api.deepseek.com}
+    langchain-url: ${STUDY_LANGCHAIN_URL:}
+    langchain-token: ${STUDY_LANGCHAIN_TOKEN:}

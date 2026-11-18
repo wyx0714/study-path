@@ -1,0 +1,42 @@
+[
+  {"id":"manchester-acs","country":"UK","track":"COMPUTING","year":2027,"intake":"2027 年 9 月","snapshot":"2026-11-12","school":"曼彻斯特大学","name":"MSc Advanced Computer Science","kind":"计算机进阶","url":"https://www.manchester.ac.uk/study/masters/courses/list/21573/msc-advanced-computer-science/?adhoc_referrer=4193000829400","rules":[
+    {"id":"major","type":"COMPUTING","title":"计算机本科","summary":"成功申请者通常持计算机科学相关的一等荣誉学位或同等学历，计算机课程内容至少占一半。","section":"Academic entry qualification overview"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"总分至少 7.0，每项不低于 6.5。","overall":7.0,"band":6.5,"section":"English language"}
+  ]},
+  {"id":"portsmouth-is","country":"UK","track":"COMPUTING","year":2027,"intake":"2027 年 9 月","snapshot":"2026-11-12","school":"朴次茅斯大学","name":"MSc Information Systems","kind":"信息系统","url":"https://www.port.ac.uk/study/courses/postgraduate-taught/msc-information-systems","rules":[
+    {"id":"major","type":"RELATED_COMPUTING","title":"学位与背景","summary":"相关学科的二等荣誉学位，示例包括计算机、商科和社会科学；也会考虑等效职业经验或资质。","section":"September 2027 / January 2028 entry requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"总分至少 6.0，每项不低于 5.5，豁免条件见官网。","overall":6.0,"band":5.5,"section":"English language requirements"}
+  ]},
+  {"id":"melbourne-it","country":"AU","track":"COMPUTING","year":2027,"intake":"2027 年 7 月","snapshot":"2026-11-12","school":"墨尔本大学","name":"Master of Information Technology","kind":"信息技术","url":"https://study.unimelb.edu.au/find/courses/graduate/master-of-information-technology/entry-requirements","rules":[
+    {"id":"major","type":"REVIEW","title":"学位、WAM 与课程","summary":"学校按项目学分路径审查既有学位、WAM 和先修课程；外校成绩通过学校自己的等效规则评估。","section":"Entry requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"总分至少 6.5，听说读写各项至少 6.0。","overall":6.5,"band":6.0,"section":"English language requirements"}
+  ]},
+  {"id":"deakin-it","country":"AU","track":"COMPUTING","year":2027,"intake":"2027 年 3 月、7 月等批次","snapshot":"2026-11-12","school":"迪肯大学","name":"Master of Information Technology","kind":"信息技术","url":"https://www.deakin.edu.au/course/master-information-technology-international","rules":[
+    {"id":"major","type":"REVIEW","title":"学位与入读路径","summary":"学校按本科学位、学科背景和既有学习经历匹配不同入读路径。","section":"Entry requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"总分至少 6.5，每项不低于 6.0。","overall":6.5,"band":6.0,"section":"English language proficiency requirements"}
+  ]},
+  {"id":"deakin-it-professional","country":"AU","track":"COMPUTING","year":2027,"intake":"2027 学年","snapshot":"2026-11-12","school":"迪肯大学","name":"Master of Information Technology (Professional)","kind":"信息技术职业方向","url":"https://www.deakin.edu.au/course/master-information-technology-professional-international","rules":[
+    {"id":"major","type":"REVIEW","title":"学位与入读路径","summary":"按官网学位、相关领域学习或工作经历对应的路径审核，符合先前学习条件可能影响修读学分。","section":"Entry requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"总分至少 6.5，每项不低于 6.0。","overall":6.5,"band":6.0,"section":"English language proficiency requirements"}
+  ]},
+  {"id":"mq-it","country":"AU","track":"COMPUTING","year":2027,"intake":"2027 年 2 月或 7 月","snapshot":"2026-11-12","school":"麦考瑞大学","name":"Master of Information Technology","kind":"信息技术","url":"https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology/?zone=foundation-core-zone","rules":[
+    {"id":"major","type":"REVIEW","title":"学位与课程路径","summary":"两年制基础路径接受 AQF 7 级学士或认可的同等学历。较短路径有不同的相关学位或经历要求。","section":"Entry requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"总分至少 6.5，每项至少 6.0。","overall":6.5,"band":6.0,"section":"English language requirements"}
+  ]},
+  {"id":"gatech-mscs","country":"US","track":"COMPUTING","year":2027,"intake":"2027 年秋季规划","snapshot":"2026-11-12","school":"佐治亚理工学院","name":"MS Computer Science","kind":"计算机科学（校内）","url":"https://www.cc.gatech.edu/ms-computer-science-admission-requirements","rules":[
+    {"id":"major","type":"REVIEW","title":"计算机背景","summary":"项目为竞争性录取，建议具备较强的计算机本科基础，包括 C 语言；学校综合查看成绩、文书和推荐信。","section":"Admission requirements"},
+    {"id":"ielts","type":"IELTS_SPLIT","title":"雅思学术类","summary":"总分 7.5；听力、阅读、口语各至少 6.5，写作至少 5.5。","overall":7.5,"band":6.5,"lowerBand":5.5,"section":"English proficiency"}
+  ]},
+  {"id":"utd-mscs","country":"US","track":"COMPUTING","year":2027,"intake":"2027 年秋季规划","snapshot":"2026-11-12","school":"德克萨斯大学达拉斯分校","name":"MS Computer Science","kind":"计算机科学","url":"https://catalog.utdallas.edu/2026/graduate/programs/ecs/computer-science","rules":[
+    {"id":"major","type":"REVIEW","title":"定量与计算机背景","summary":"要求相关定量学科基础，核对微积分、线性代数、编程与相关先修课程，定量课程 GPA 要求 3.3。","section":"MS Admission Requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"按学校研究生英语要求，雅思总分最低 6.5。请核对个人适用条件和项目是否另有要求。","overall":6.5,"section":"English Proficiency","url":"https://catalog.utdallas.edu/2026/graduate/graduate/admission"}
+  ]},
+  {"id":"melbourne-ds","country":"AU","track":"AI_DATA","year":2027,"intake":"2027 年 3 月","snapshot":"2026-11-12","school":"墨尔本大学","name":"Master of Data Science","kind":"数据科学","url":"https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/entry-requirements","rules":[
+    {"id":"major","type":"REVIEW","title":"学位与 WAM","summary":"本科需达到墨尔本大学口径的 WAM 65% 或同等成绩，外校成绩及先修条件按学校评估。","section":"Entry requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"总分至少 6.5，听说读写各项至少 6.0。","overall":6.5,"band":6.0,"section":"English language requirements"}
+  ]},
+  {"id":"utd-dss","country":"US","track":"AI_DATA","year":2027,"intake":"2027 年秋季规划","snapshot":"2026-11-12","school":"德克萨斯大学达拉斯分校","name":"MS Data Science and Statistics","kind":"数据科学与统计","url":"https://catalog.utdallas.edu/2026/graduate/programs/nsm/mathematics","rules":[
+    {"id":"major","type":"REVIEW","title":"学位与背景","summary":"项目按研究生院学位要求和完整材料综合审核；按该硕士的 Admission Requirements 段落准备。","section":"Master of Science in Data Science and Statistics / Admission Requirements"},
+    {"id":"ielts","type":"IELTS","title":"雅思学术类","summary":"学校公布的研究生雅思要求为总分至少 6.5，核对该项是否适用于你的申请。","overall":6.5,"section":"English Proficiency","url":"https://catalog.utdallas.edu/2026/graduate/graduate/admission"}
+  ]}
+]

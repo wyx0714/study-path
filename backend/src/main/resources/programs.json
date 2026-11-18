@@ -1,0 +1,105 @@
+[
+  {
+    "id":"ucl-cs", "country":"UK", "track":"COMPUTING", "year":2027, "intake":"2027 年 9 月", "snapshot":"2026-11-12",
+    "school":"伦敦大学学院", "name":"Computer Science MSc", "kind":"计算机转专业",
+    "url":"https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-science-msc",
+    "rules":[
+      {"id":"major","type":"NON_COMPUTING","title":"本科专业范围","summary":"面向非计算机和非信息技术专业；软件工程、人工智能及机器学习等计算机相关方向也在排除范围内。","section":"Entry requirements"},
+      {"id":"degree","type":"REVIEW","title":"学位等效性","summary":"英国本科要求至少达到二等一荣誉学位或同等国际学历，国际成绩需按学校对应规则核实。","section":"Entry requirements / Equivalent qualifications"},
+      {"id":"math","type":"MATH","title":"数学与分析基础","summary":"申请材料需要提供数学能力证据，至少达到英国 A-level 数学水平，并体现分析能力。","section":"Entry requirements"},
+      {"id":"ielts","type":"IELTS","overall":7.0,"band":6.5,"title":"雅思学术类 · Level 2","summary":"项目要求 Level 2。按该级别的雅思学术类路径，总分至少 7.0，且每项至少 6.5。","section":"IELTS Academic · Level 2","url":"https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/english-language-requirements"}
+    ]
+  },
+  {
+    "id":"ucl-ds", "country":"UK", "track":"AI_DATA", "year":2027, "intake":"2027 年 9 月", "snapshot":"2026-11-12",
+    "school":"伦敦大学学院", "name":"Data Science MSc", "kind":"数据科学",
+    "url":"https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"定量学科与学位","summary":"要求定量学科的英国二等一学位或同等国际学历。数学、统计、经济等是学校列出的背景示例；具体专业和成绩由学校核实。","section":"Entry requirements / Who this course is for"},
+      {"id":"math","type":"MATH","title":"数学、概率与统计","summary":"期望具备大学层次的数学方法和线性代数基础，并提供初级概率、统计等方面的学习证据。","section":"Entry requirements"},
+      {"id":"programming","type":"PROGRAMMING","title":"编程基础","summary":"要求有高级编程语言经验，学校列出的例子包括 R、MATLAB 和 Python。","section":"Entry requirements"},
+      {"id":"ielts","type":"IELTS","overall":6.5,"band":6.0,"title":"雅思学术类 · Level 1","summary":"项目要求 Level 1。按该级别的雅思学术类路径，总分至少 6.5，且每项至少 6.0。","section":"IELTS Academic · Level 1","url":"https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/english-language-requirements"}
+    ]
+  },
+  {
+    "id":"nus-gen", "country":"SG", "track":"COMPUTING", "year":2027, "intake":"2027 年 8 月", "snapshot":"2026-11-12",
+    "school":"新加坡国立大学", "name":"Master of Computing (General Track)", "kind":"计算机通用方向",
+    "url":"https://www.comp.nus.edu.sg/programmes/pg/mcomp-gen/admissions/",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"学位与适合的背景","summary":"项目主要面向非计算机背景，要求任意学科的良好荣誉学位或同等学历。相关 IT 工作经验有利于申请，学校 FAQ 说明它不是必需条件。","section":"Admission Criteria / FAQ","url":"https://www.comp.nus.edu.sg/programmes/pg/mcomp-gen/faq/"},
+      {"id":"ielts","type":"NUS_IELTS","overall":6.0,"title":"语言成绩 · 雅思路径","summary":"以非英语为主要授课语言的高校毕业生需提交 TOEFL 或 IELTS。雅思最低总分为 6.0，官网列出的 TOEFL/IELTS 成绩有效期为 2 年。","section":"Test Scores"},
+      {"id":"gre","type":"REVIEW","title":"GRE / GMAT 等考试","summary":"官网 Test Scores 栏列有 GRE / GMAT 要求，印度高校毕业生可能使用 GATE。请按个人背景核实适用考试及分数。","section":"Test Scores"},
+      {"id":"materials","type":"REVIEW","title":"申请材料","summary":"官网申请清单列有个人陈述、简历和学业证明。非英文材料需要提供符合学校要求的英文译本。","section":"Submission of Application","url":"https://www.comp.nus.edu.sg/programmes/pg/mcomp-gen/application/"}
+    ]
+  },
+  {
+    "id":"nus-ai", "country":"SG", "track":"AI_DATA", "year":2027, "intake":"2027 年 8 月", "snapshot":"2026-11-12",
+    "school":"新加坡国立大学", "name":"Master of Computing in Artificial Intelligence", "kind":"人工智能",
+    "url":"https://www.comp.nus.edu.sg/programmes/pg/mcomp-ai/admissions/",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"学位与行业经验路径","summary":"官网列出计算机荣誉学位，以及其他若干学位加两年 IT 行业经验等路径。申请人需核实学位类别、专业和工作经历能否对应其中一条路径。","section":"Admission Criteria"},
+      {"id":"ielts","type":"NUS_IELTS","overall":6.0,"title":"语言成绩 · 雅思路径","summary":"以非英语为主要授课语言的高校毕业生需提交 TOEFL 或 IELTS。雅思最低总分为 6.0，官网列出的 TOEFL/IELTS 成绩有效期为 2 年。","section":"Test Scores"},
+      {"id":"gre","type":"REVIEW","title":"GRE / GMAT 等考试","summary":"官网 Test Scores 栏列有 GRE / GMAT 要求，印度高校毕业生可能使用 GATE。请按个人背景核实适用考试及分数。","section":"Test Scores"},
+      {"id":"materials","type":"REVIEW","title":"申请材料","summary":"官网申请清单列有个人陈述、简历和学业证明。非英文材料需要提供符合学校要求的英文译本。","section":"Submission of Application","url":"https://www.comp.nus.edu.sg/programmes/pg/mcomp-ai/application/"}
+    ]
+  },
+  {
+    "id":"leeds-advanced-cs", "country":"UK", "track":"COMPUTING", "year":2027, "intake":"2027 年 9 月", "snapshot":"2026-11-12",
+    "school":"利兹大学", "name":"Advanced Computer Science MSc", "kind":"计算机进阶",
+    "url":"https://courses.leeds.ac.uk/F753/advanced_computer_science_msc",
+    "rules":[
+      {"id":"major","type":"COMPUTING","title":"计算机专业背景","summary":"官网通常要求计算机科学二等一荣誉学位。对于计算机科学二等二及有相关工作经验或专业资格的人，学校也鼓励申请并逐案评估。","section":"Applying / Entry requirements"},
+      {"id":"programming","type":"PROGRAMMING","title":"本科相关课程","summary":"需要有较广的相关课程基础，包括编程、系统开发、数据结构与算法。","section":"Applying / Entry requirements"},
+      {"id":"degree","type":"REVIEW","title":"国际学历等效性","summary":"国际学历可以按学校等效规则评估，具体成绩和专业归类可向招生团队核实。","section":"International"},
+      {"id":"ielts","type":"IELTS","overall":6.5,"band":6.0,"title":"雅思学术类","summary":"雅思总分至少 6.5，且每个单项不低于 6.0。","section":"English language requirements"}
+    ]
+  },
+  {
+    "id":"leeds-cs", "country":"UK", "track":"COMPUTING", "year":2027, "intake":"2027 年 9 月", "snapshot":"2026-11-12",
+    "school":"利兹大学", "name":"Computer Science MSc", "kind":"计算机转专业",
+    "url":"https://courses.leeds.ac.uk/k299/",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"本科专业范围","summary":"面向非计算机科学本科背景，通常要求英国二等一荣誉学位或同等学历。已学过计算机科学的申请人可查看该校进阶项目。","section":"Applying / Entry requirements"},
+      {"id":"ielts","type":"IELTS","overall":6.5,"band":6.0,"title":"雅思学术类","summary":"雅思总分至少 6.5，且每个单项不低于 6.0。","section":"English language requirements"}
+    ]
+  },
+  {
+    "id":"soton-ai", "country":"UK", "track":"AI_DATA", "year":2027, "intake":"2027 年 9 月", "snapshot":"2026-11-12",
+    "school":"南安普顿大学", "name":"Artificial Intelligence MSc", "kind":"人工智能",
+    "url":"https://www.southampton.ac.uk/courses/artificial-intelligence-masters-msc",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"本科专业与成绩","summary":"官网列出计算机、软件工程、人工智能及数学与计算等背景，要求达到其学位及成绩标准。在中国就读的申请人还需核实学校名单与对应成绩。","section":"Entry requirements"},
+      {"id":"math","type":"MATH","title":"数学课程","summary":"要求线性代数或其他高阶数学课程，并核对相关课程成绩。","section":"Entry requirements"},
+      {"id":"programming","type":"PROGRAMMING","title":"编程和算法课程","summary":"要求高级编程课程，以及人工智能、高级算法或机器学习方向的课程。","section":"Entry requirements"},
+      {"id":"ielts","type":"IELTS","overall":6.5,"band":6.0,"title":"雅思学术类","summary":"雅思总分至少 6.5，听说读写各项至少 6.0。","section":"English language requirements"}
+    ]
+  },
+  {
+    "id":"nus-dsml", "country":"SG", "track":"AI_DATA", "year":2027, "intake":"2027 年 8 月", "snapshot":"2026-11-12",
+    "school":"新加坡国立大学", "name":"MSc Data Science and Machine Learning", "kind":"数据科学与机器学习",
+    "url":"https://www.math.nus.edu.sg/cdsml/ms-dsml/dsml-prospective-students/",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"定量、工程或计算机学位","summary":"接受定量科学、工程或计算机科学方向的荣誉学士、四年制学士或同等学历。","section":"Admission Requirements"},
+      {"id":"ielts","type":"IELTS","overall":6.0,"title":"语言成绩 · 雅思路径","summary":"按雅思路径，官网公布总分至少 6.0。是否需要提交语言成绩，与申请人的语言和原高校授课情况有关。","section":"Admission Requirements"},
+      {"id":"materials","type":"REVIEW","title":"申请材料与成绩有效期","summary":"核对历次高等教育官方成绩单等文件；需要提交英语成绩时，申请时成绩须仍在有效期内。","section":"Supporting Documents"}
+    ]
+  },
+  {
+    "id":"ntu-msis", "country":"SG", "track":"COMPUTING", "year":2027, "intake":"2027 年 8 月", "snapshot":"2026-11-12",
+    "school":"南洋理工大学", "name":"MSc Information Systems", "kind":"信息系统",
+    "url":"https://www.ntu.edu.sg/education/graduate-programme/master-in-science-in-information-systems",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"学位与相关经历","summary":"官网列出计算机、信息系统、含较强 IT 内容的学位或学位加相关工作经验等路径，学位等级要求为二等二荣誉学位或同等学历。实习不计入所指工作经验。","section":"Admission Requirements"},
+      {"id":"ielts","type":"IELTS","overall":6.5,"band":6.0,"title":"语言成绩 · 雅思路径","summary":"按雅思学术类路径，至少总分 6.5、每项 6.0，申请时须核对成绩有效期和适用条件。","section":"English Language Requirements"}
+    ]
+  },
+  {
+    "id":"ntu-enterprise-ai", "country":"SG", "track":"AI_DATA", "year":2027, "intake":"2027 学年（批次详见官网）", "snapshot":"2026-11-12",
+    "school":"南洋理工大学", "name":"MSc Enterprise Artificial Intelligence", "kind":"企业人工智能",
+    "url":"https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-enterprise-artificial-intelligence",
+    "rules":[
+      {"id":"major","type":"REVIEW","title":"学位与专业范围","summary":"接受认可院校的任意专业荣誉学士或同等学历。非全日制申请人还需留意相关工作经历方面的建议。","section":"Admission Requirements"},
+      {"id":"ielts","type":"IELTS","overall":6.0,"title":"语言成绩 · 雅思路径","summary":"按雅思路径，官网公布最低分 6.0。非英语母语申请人应核对提交成绩及豁免条件。","section":"Admission Requirements"}
+    ]
+  }
+]
